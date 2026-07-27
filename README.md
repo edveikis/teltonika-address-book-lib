@@ -1,1 +1,0 @@
-# teltonika-address-book-lib
